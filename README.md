@@ -51,4 +51,4 @@ create-project new-project-name
 
 ## License
 
-MIT
+MIT + GNU APL v4
